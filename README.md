@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="Bentodog.jpg" width="210" alt="Bentodog">
+</p>
+
 #  Perceptron Simples em Java
 
 Este projeto é uma implementação bem direta de um Perceptron de camada única (Single Layer Perceptron) em Java puro, sem bibliotecas externas, só o básico mesmo.  
